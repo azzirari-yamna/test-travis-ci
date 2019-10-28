@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-# Copyright 2016, 2019 Openworx - Mario Gielissen
-# License LGPL-3.0 or later (http://www.gnu.org/licenses/lgpl.html).
-
 {
     "name": "Openworx Material Backend Theme V13",
     "summary": "Openworx Material Backend Theme V13",
@@ -29,6 +25,5 @@
         #'views/sidebar.xml',
     ],
     #'live_test_url': 'https://youtu.be/JX-ntw2ORl8'
-
 }
 

@@ -1,7 +1,3 @@
-/* Copyright 2016, 2019 Openworx.
- * License LGPL-3.0 or later (http://www.gnu.org/licenses/lgpl). */
-
-// Check if debug mode is active and then add debug into URL when clicking on the App sidebar
 odoo.define('backend_theme_v13.Sidebar', function(require) {
     "use strict";
     var core = require('web.core');

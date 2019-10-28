@@ -4,9 +4,6 @@
     "version": "13.0.0.1",
     "category": "Theme/Backend",
     "website": "http://www.openworx.nl",
-	"description": """
-		Openworx Material Backend theme for Odoo 13.0 community edition.
-    """,
 	'images':[
         'images/screen.png'
 	],
